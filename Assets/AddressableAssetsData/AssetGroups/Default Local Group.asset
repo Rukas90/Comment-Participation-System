@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 257e3c2446412a04cab6a4cdfbd47c28
+  m_SerializeEntries:
+  - m_GUID: 341e4899c70ec0f478e786ff57bd14b4
+    m_Address: Comment UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6743cb89cf345148b69030de5469cf3
+    m_Address: Rating UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8101e6311d5b7df4b84b7428dfe7091e
+    m_Address: Observable Spot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 063c9107bff72184681790239d78c81b
+    m_Address: Dropdown Background
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d456c736fff47045a7b31b64a697214
+    m_Address: MainMenu Profile Selection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fb012618d3fa0f54dbd0b3e2d9af4685, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4a0fc1b3e9ae45846b9c94890970dd7e, type: 2}
+    - {fileID: 11400000, guid: 232dad8aa778f52458e08a41fef2507b, type: 2}

@@ -1,0 +1,899 @@
+{
+    "nameFull": "",
+    "contributions": [
+        {
+            "id": "D1oZTV/kNECQ6CiFouQJTA==1249.75",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "rAWommaIXUOalJwGybChZA==1.033413",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "hHscSEe3x02DiiwqdWGFww==1074.157",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "PBfGfvRSqU+dIMp//PtIEA==667.9774",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "Dza2qYBakk+KcrRmJV5JsQ==1.743503",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "PmM4L2PY+0S/bOF76fFVYg==857.6179",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "hrpl/B6mE0e1qTfys+8PxQ==639.5114",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==1237.2",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/z4SB27A+UCm3Vp2rg6TLw==650.177",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "tCQH+4sYrEuO9mk7zuztZw==8.294917",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "6fhimW5iTEG2wOfO9DLikg==544.3058",
+            "ratings": [
+                {
+                    "id": "ATMlOpzhKUqJQ+l0Xy18yw==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "ratingType": 4
+                },
+                {
+                    "id": "0dgDaaqCDkWN8g1j9KtvXw==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "ratingType": 5
+                }
+            ],
+            "comments": [
+                {
+                    "id": "pmpGnGWnOU6zlz0PgoxfPA==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "Design",
+                    "commentContent": "...",
+                    "contributionType": 1
+                },
+                {
+                    "id": "9InVtIFRQ0Sd37PME3fxCQ==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "commentContent": "",
+                    "contributionType": 0
+                },
+                {
+                    "id": "U2mNFewqh0CgNDHiOzGVoQ==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "commentContent": "",
+                    "contributionType": 0
+                }
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "fRyptFMw10qjBtYHmUuk8g==760.73",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==127.6115",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "0UBNvU0ZjkCesbYoixbdgg==1.033413",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yvm3IoSDyUq+7L2eOsZOfg==240.5234",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "6fhimW5iTEG2wOfO9DLikg==452.3854",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "4kUfzVfWJ0CqH2yytxUgBg==906.7464",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "e6M7pC5X3kqeXKo/7/OoSg==1384.462",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "3a+9e21PDEeAhhBzSChrAQ==1.660775",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "CCtSmeFhg0ysHnfSu2m8wQ==773.5647",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==3977.975",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==615.8372",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==571.3295",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==571.415",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "fRyptFMw10qjBtYHmUuk8g==517.9726",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==122.547",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "fRyptFMw10qjBtYHmUuk8g==1072.875",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==80.92785",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "CCtSmeFhg0ysHnfSu2m8wQ==546.0022",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "fRyptFMw10qjBtYHmUuk8g==494.3287",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "e6M7pC5X3kqeXKo/7/OoSg==1083.024",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==9079.18",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==938.8817",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==9369.939",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "6fhimW5iTEG2wOfO9DLikg==183.3005",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "4kUfzVfWJ0CqH2yytxUgBg==592.8931",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/z4SB27A+UCm3Vp2rg6TLw==654.8793",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "4kUfzVfWJ0CqH2yytxUgBg==393.2296",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "PmM4L2PY+0S/bOF76fFVYg==528.2308",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==7937.456",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "D1oZTV/kNECQ6CiFouQJTA==1295.11",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==956.4247",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yvm3IoSDyUq+7L2eOsZOfg==1180.168",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "6fhimW5iTEG2wOfO9DLikg==794.5156",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==73.89694",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "6fhimW5iTEG2wOfO9DLikg==863.2452",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==64.68337",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==67.64972",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "PmM4L2PY+0S/bOF76fFVYg==875.4525",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==142.2436",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "PBfGfvRSqU+dIMp//PtIEA==957.7689",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/z4SB27A+UCm3Vp2rg6TLw==1026.056",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==571.2368",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==938.6619",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==736.4234",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==649.2798",
+            "ratings": [
+                {
+                    "id": "hvKdl+yvPU+0AhgbdQ8s/Q==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "fsdgdfgfdg",
+                    "ratingType": 3
+                }
+            ],
+            "comments": [
+                {
+                    "id": "hV70YSTQjEOb3AUfZSMgaA==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "commentContent": "",
+                    "contributionType": 0
+                }
+            ],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "hrpl/B6mE0e1qTfys+8PxQ==598.8072",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==572.5306",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==125.7197",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "X6yTCSeIJU2iNlF3PDRImA==1873.898",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "fRyptFMw10qjBtYHmUuk8g==855.2732",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "yMQC1FgBXk2qQpqWH/zMnQ==956.9263",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==400.7439",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "/6T0x6GdVEO1hSQyhxoY/w==340.1304",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "category": 0
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==768.5219",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.8446793556213379,
+                "y": 0.0480571985244751,
+                "z": 27.709314346313478
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==628.4476",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.9745469093322754,
+                "y": 0.05074763298034668,
+                "z": 25.049856185913087
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==482.0432",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": -0.6344051361083984,
+                "y": 0.06828713417053223,
+                "z": 21.946208953857423
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==15.26197",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 1.1649255752563477,
+                "y": 1.6839220523834229,
+                "z": 3.327058792114258
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==165.9647",
+            "ratings": [],
+            "comments": [
+                {
+                    "id": "e2BXlPPsnk694pSp7V9lUQ==",
+                    "nameFull": "Rukas Skirkevicius",
+                    "title": "",
+                    "commentContent": "",
+                    "contributionType": 0
+                }
+            ],
+            "location": {
+                "x": -12.44651985168457,
+                "y": 0.07678800821304321,
+                "z": -3.323091506958008
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==15.20372",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 0.06756889075040817,
+                "y": 1.7102575302124024,
+                "z": -3.503451108932495
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==450.2014",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 3.1406331062316896,
+                "y": 0.04672691226005554,
+                "z": 20.984176635742189
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==600.8065",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": 4.146951675415039,
+                "y": 0.5622283220291138,
+                "z": 24.15146255493164
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==180.742",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": -13.429076194763184,
+                "y": 0.07727590203285217,
+                "z": 0.629223644733429
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==245.6415",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": -15.446682929992676,
+                "y": 0.06530892848968506,
+                "z": 2.652768850326538
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==378.9413",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": -14.927579879760743,
+                "y": 1.4642661809921265,
+                "z": 12.408245086669922
+            },
+            "category": 1
+        },
+        {
+            "id": "dcCfVLiwoEWrCMTfNGVqZw==858.5536",
+            "ratings": [],
+            "comments": [],
+            "location": {
+                "x": -25.00080108642578,
+                "y": 1.73435378074646,
+                "z": 15.182411193847657
+            },
+            "category": 1
+        }
+    ]
+}
